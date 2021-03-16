@@ -1,5 +1,5 @@
 # hello-world
-basic repository
+It's the first one that counts.
 
 Hey guys
 
